@@ -7,5 +7,3 @@ Test repo for learning git.
 * Plant a tree
 * Change the world
 
-# Módosított sor
-
