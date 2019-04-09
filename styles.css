@@ -1,0 +1,29 @@
+h1 {
+text-align: center;
+color: red;
+font-size: 50px;
+font-family: "Times New Roman", serif;
+font-style: bold;
+}
+
+h2 {
+		
+	
+}
+
+
+p {
+	color : red;
+	font-size: 30px;
+	font-style: bold;
+	border: 1px solid blue;
+	padding: 4px;
+	margin: 10px;
+}
+
+ul {
+	color: green;
+	font-size: 20px;
+	
+	
+}
